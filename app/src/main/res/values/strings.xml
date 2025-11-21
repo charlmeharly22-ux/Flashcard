@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_flashcard">Quel est le 44eme President des Etats-Unis ?</string>
+    <string name="answer1">Bill Clinton</string>
+    <string name="answer2">George H. W. Bush</string>
+    <string name="answer3">Barack Obama</string>
+</resources>
